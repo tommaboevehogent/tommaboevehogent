@@ -1,15 +1,14 @@
-# Tomma Boeve
+# Tomma Boeve - Student Toegepaste Informatica - 3de jaar Data & AI
 
-**`Student Toegepaste Informatica - Data & AI`**
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tomski0005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomma-boeve)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tomma.boeve@student.hogent.be)
+[![Hobby](https://img.shields.io/badge/Hobby-F57C00?logo=googlefit&logoColor=white)](https://wytewa.be/)
 
-Ik zit momenteel in mijn 3de jaar toegepaste informatica. Ik heb ervaring met Python, SQL en machine learning-projecten binnen mijn opleiding. Sterke interesse in het bouwen van slimme modellen en data-oplossingen die echte impact hebben. Ambitie om verder te groeien richting data science en AI-engineering.
+### ⚙️ Persoonlijke projecten
 
-### ⚙️ Projecten
-
-- 📊 **Data-workflow automatisatie** – Real-time data ophalen en verwerken in een automatisch rapporteringssysteem.
-- 🤖 **Machine Learning Model** – Voorspellend model voor kijkcijfers in Vlaanderen.
-- 🌐 **REST API** – API in Node.js.
-- 🗄️ **Databaseproject** – MySQL-database voor dataproject in verband met energieprijzen in Vlaanderen.
+- **Machine learning project** – Urgentieniveau voorspellen met machine learning.
+- **Persoonlijke Strava-Garmin traininghelper** – Work in progress.
 
 ### 🛠️ Technische vaardigheden
 
@@ -21,7 +20,8 @@ Ik zit momenteel in mijn 3de jaar toegepaste informatica. Ik heb ervaring met Py
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img align="left" alt="SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 
 
 
