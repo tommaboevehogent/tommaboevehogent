@@ -1,4 +1,4 @@
-# Tomma Boeve - Student Toegepaste Informatica - 3de jaar Data & AI
+# Tomma Boeve | Student Toegepaste Informatica | Data & AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommaboeve/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tomma.boeve@student.hogent.be)
