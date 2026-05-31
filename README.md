@@ -6,7 +6,7 @@
 
 ### ⚙️ Persoonlijke projecten
 
-- **Machine learning project** – Urgentieniveau voorspellen met machine learning.
+- **[Machine learning project](https://github.com/tommaboevehogent/triage_prediction)** – Urgentieniveau voorspellen met machine learning.
 - **Persoonlijke Strava-Garmin trainingassistent** – Work in progress.
 
 ### 🛠️ Technische vaardigheden
